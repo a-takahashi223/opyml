@@ -7,7 +7,7 @@ from .head import Head
 from .opml import OPML
 from .outline import Outline
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 # Export everything at the top-level.
 __all__ = [
